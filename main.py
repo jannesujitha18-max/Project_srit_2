@@ -1,0 +1,2 @@
+prinnt("Srit")
+print("college")
